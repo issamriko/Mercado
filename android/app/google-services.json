@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846404877160",
+    "project_id": "mercado-firebase-8a7a3",
+    "storage_bucket": "mercado-firebase-8a7a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846404877160:android:720c2d1da0616e48e434dd",
+        "android_client_info": {
+          "package_name": "com.example.test_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJMu-3jscS3KicQwzCnNBvcCk4h-AlA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
